@@ -1,0 +1,92 @@
+ //-----------------------------------------------------------------//                                                                                                                                                                                    
+ //     ____                    ______ __  __  ____  _  ________    //                                                                                                                                                                                    
+ //    / __ \                  /  ___ |  \/  |/ __ \| |/ /  ____|   //                                                                                                                                                                                    
+ //   | |  | |_ __   ___ _ __ |  (___ | \  / | |  | | ' /| |__      //                                                                                                                                                                                    
+ //   | |  | | '_ \ / _ \ '_ \ \___  \| |\/| | |  | |  < |  __|     //                                                                                                                                                                                    
+ //   | |__| | |_) |  __/ | | |____)  | |  | | |__| | . \| |____    //                                                                                                                                                                                    
+ //    \____/| .__/ \___|_| |_|______/|_|  |_|\____/|_|\_\______|   //                                                                                                                                                                                    
+ //         | |                                                     //                                                                                                                                                                                    
+ //         |_|                                                     //                                                                                                                                                                                    
+ //                                                                 //                                                                                                                                                                                    
+ //                http://www.opensmoke.polimi.it/                  //                                                                                                                                                                                    
+ //             http://creckmodeling.chem.polimi.it/                //                                                                                                                                                                                    
+ //-----------------------------------------------------------------//                                                                                                                                                                                    
+ Dictionary PlugFlowReactor                                                                                                                                                                                    
+ {                                                                                                                                                                                    
+ @KineticsFolder	..\kinetics;
+ @Type					NonIsothermal;                                                                                                                                                                                    
+ @InletStatus          	inlet-mixture;                                                                                                                                                                                    
+ @ResidenceTime					0.2 s;                                                                                                                                                                                    
+ @ConstantPressure		true;                                                                                                                                                                                                                                        
+ @Diameter				100 mm;                                                                                                                                                                                                                                        
+ @MassFlowRate			1.6E-07   kg/s  ;                                                                                                                                                                                                                                        
+ @Options				Output;                                                                                                                                                                                                                                        
+ @OdeParameters			ODE-Tolerance; 
+ @OnTheFlyPostProcessing onthefly-post-processing ;                                                                                                                                                                        
+ }
+ Dictionary onthefly-post-processing
+{
+@ReactionRates ALL;
+@FormationRates ALL;
+}                                                               
+ Dictionary sparse-ode                                                                
+ {                                                                    
+ @OdeSolver OpenSMOKE;            // CVODE | OpenSMOKE                                                                
+ @SparseSolver Pardiso;                                                                
+ @SparsePreconditioner ILUT;                                                                
+ @AbsoluteTolerance 1e-12;                                                                
+ @RelativeTolerance 1e-7;                                                                
+ }                                                                                                                                                                                      
+ Dictionary inlet-mixture                                                                                                                                                                                    
+ {                                                                                                                                                                                    
+  @Temperature  1150.9371 K;	                                                                                                                                                                                                                                        
+ @Pressure       1  atm;	                                                                                                                                                                                                                                        
+ @MoleFractions C5H6 0.00219 CYC5H8 1.70601000064426E-05 N2 0.974338473599993 O2 0.0234544663 ; // run 4                                                                                                                                                                                                                                        
+ }                                                                                                                                                                                    
+ Dictionary Output                                                                                                                                                                                    
+ {                                                                                                                                                                                    
+ @OutputFolder	Output ;  
+ @OutputSpecies		C5H6	C7H8	C6H5C2H3	C6H5C2H	CH4	C2H2	C2H4	C3H6	C3H4-A	C3H4-P	                                                                                                                                                                                                                                        
+ H2	C4H6	C4H4	C10H8	INDENE	C6H5OH	C6H6	CO	CO2	C5H5CH3	C2H6	C5H5	H2O	O2	                                                                                                                                                                                                                                        
+ CYC5H8	C6H5CHO	BZFUR	C10H10	C10H7CH3	C10H7OH	C14H10	C6H5C2H5 C5H5O C5H4O;                                                                                                                                                                                                                                        
+ }                                                                                                                                                                                    
+ Dictionary ODE-Tolerance                                                                                                                                                                                    
+ {                                                                                                                                                                                    
+ @RelativeTolerance 	1e-12;                                                                                                                                                                                    
+ @AbsoluteTolerance 	1e-12;                                                                                                                                                                                    
+ //@MinimumStep 		1e-9;                                                                                                                                                                                    
+ @MaximumStep 		1e5;                                                                                                                                                                                    
+ @MaximumNumberOfSteps 100000;                                                                                                                                                                                    
+ }                                                                                                                                  
+Dictionary T-Profile                                                                                                                                                                                                                                        
+ {	                                                                                                                                                                                                                                        
+ @XVariable time;                                                                                                                                                                                                                                        
+ @YVariable temperature;                                                                                                                                                                                                                                        
+ @XUnits s;                                                                                                                                                                                                                                        
+ @YUnits K;                                                                                                                                                                                                                                        
+ @Profile                                                                                                                                                                                                                                        
+ 0	1150.9371                                                                                                                                                                                                                                        
+ 0.003895711	1148.50563                                                                                                                                                                                                                                        
+ 0.006970628	1148.50563                                                                                                                                                                                                                                        
+ 0.013261353	1149.11411                                                                                                                                                                                                                                        
+ 0.022866662	1150.32985                                                                                                                                                                                                                                        
+ 0.03203684	1152.15037                                                                                                                                                                                                                                        
+ 0.04008263	1152.15037                                                                                                                                                                                                                                        
+ 0.04980545	1153.96719                                                                                                                                                                                                                                        
+ 0.059461416	1155.78031                                                                                                                                                                                                                                        
+ 0.068562124	1158.19206                                                                                                                                                                                                                                        
+ 0.076566614	1160.59723                                                                                                                                                                                                                                        
+ 0.086168218	1162.99582                                                                                                                                                                                                                                        
+ 0.095776843	1172.52444                                                                                                                                                                                                                                        
+ 0.10473079	1190.10702                                                                                                                                                                                                                                        
+ 0.113036639	1251.41195                                                                                                                                                                                                                                        
+ 0.121711161	1282.755;		                                                                                                                                                                                                                                        
+ }                                                                                                                                        
+ Dictionary sensitivity-options                                                                                                                      
+ {	                                                                                                                      
+ @Type 				arrhenius-parameters; 	                                                                                                                      
+ @DenseSolver 		Eigen;                                                                                                                      
+ @DenseFullPivoting 	false;                                                                                                                      
+ @SubSteps 			5;                                                                                                                      
+ @Species 		C5H6 C6H5OH C2H6 ;                                                                                                                      
+ }                                                                                                                                                                                                                             
