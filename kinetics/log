@@ -1,0 +1,825 @@
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         8.000000e+00    8.000000e+00    1.250000e-07    
+H         1.600000e+01    1.600000e+01    1.250000e-07    
+Warning in reaction (line 8723): O+IC8H16=>0.333333330000000C3H6+CH3COCH3+IC4H8
+Corrected reaction (line 8723): O+IC8H16=>0.333333330000000C3H6+CH3COCH3+1.000000002500000IC4H8
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.600000e+01    1.600000e+01    2.054135e-10    
+H         1.500000e+01    1.500000e+01    1.689789e-10    
+Warning in reaction (line 10794): CH3C6H4+INDENE=>H2+H+0.181818181818271C16H10+0.727272727274474C18H14
+Corrected reaction (line 10794): CH3C6H4+INDENE=>0.999999999999520H2+0.999999999999760H+0.181818181817692C16H10+0.727272727273163C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.900000e+01    1.900000e+01    8.796422e-08    
+H         1.500000e+01    1.500000e+01    8.156230e-08    
+Warning in reaction (line 10798): INDENE+C10H7=>H+0.166666666856036BIN1B+0.333333333979624BIN1A+0.5C18H14
+Corrected reaction (line 10798): INDENE+C10H7=>0.999999999966828H+0.166666666682601BIN1B+0.333333333607156BIN1A+0.499999999678047C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.700000e+01    1.700000e+01    1.933303e-10    
+H         1.700000e+01    1.700000e+01    1.490886e-10    
+Warning in reaction (line 10828): XYLENE+INDENYL=>H2+CH3+0.181818181818271C16H10+0.727272727274474C18H14
+Corrected reaction (line 10828): XYLENE+INDENYL=>0.999999999999703H2+0.999999999999604CH3+0.181818181817578C16H10+0.727272727273286C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.700000e+01    1.700000e+01    1.933303e-10    
+H         1.700000e+01    1.700000e+01    1.490886e-10    
+Warning in reaction (line 10830): C6H5C2H5+INDENYL=>H2+CH3+0.181818181818271C16H10+0.727272727274474C18H14
+Corrected reaction (line 10830): C6H5C2H5+INDENYL=>0.999999999999703H2+0.999999999999604CH3+0.181818181817578C16H10+0.727272727273286C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.700000e+01    1.700000e+01    1.933303e-10    
+H         1.500000e+01    1.500000e+01    1.689789e-10    
+Warning in reaction (line 10831): C6H5C2H3+INDENYL=>CH3+0.181818181818271C16H10+0.727272727274474C18H14
+Corrected reaction (line 10831): C6H5C2H3+INDENYL=>0.999999999999444CH3+0.181818181817678C16H10+0.727272727273206C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.600000e+01    1.600000e+01    2.054135e-10    
+H         1.500000e+01    1.500000e+01    1.689789e-10    
+Warning in reaction (line 10834): C7H7+INDENE=>H2+H+0.181818181818271C16H10+0.727272727274474C18H14
+Corrected reaction (line 10834): C7H7+INDENE=>0.999999999999520H2+0.999999999999760H+0.181818181817692C16H10+0.727272727273163C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.900000e+01    1.900000e+01    8.796422e-08    
+H         1.500000e+01    1.500000e+01    8.156230e-08    
+Warning in reaction (line 11050): C10H8+INDENYL=>H+0.166666666856036BIN1B+0.333333333979624BIN1A+0.5C18H14
+Corrected reaction (line 11050): C10H8+INDENYL=>0.999999999966828H+0.166666666682601BIN1B+0.333333333607156BIN1A+0.499999999678047C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.099999e+01    7.142860e-05    
+H         1.700000e+01    1.699999e+01    5.882355e-05    
+Warning in reaction (line 11131): C10H8+C10H7CH2=>CH3+0.333333BIN1B+0.66666625BIN1A
+Corrected reaction (line 11131): C10H8+C10H7CH2=>1.000000039286473CH3+0.333333347738373BIN1B+0.666666650297303BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    2.000000e+01    8.356601e-08    
+H         1.700000e+01    1.700000e+01    7.196674e-08    
+Warning in reaction (line 11140): INDENE+C10H7CH2=>CH3+0.166666666856036BIN1B+0.333333333979624BIN1A+0.5C18H14
+Corrected reaction (line 11140): INDENE+C10H7CH2=>0.999999999923698CH3+0.166666666659353BIN1B+0.333333333623418BIN1A+0.499999999690049C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    2.000000e+01    8.356601e-08    
+H         1.700000e+01    1.700000e+01    7.196674e-08    
+Warning in reaction (line 11268): INDENE+C10H6CH3=>CH3+0.166666666856036BIN1B+0.333333333979624BIN1A+0.5C18H14
+Corrected reaction (line 11268): INDENE+C10H6CH3=>0.999999999923698CH3+0.166666666659353BIN1B+0.333333333623418BIN1A+0.499999999690049C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.099999e+01    7.142860e-05    
+H         1.700000e+01    1.699999e+01    5.882355e-05    
+Warning in reaction (line 11277): C10H8+C10H6CH3=>CH3+0.333333BIN1B+0.66666625BIN1A
+Corrected reaction (line 11277): C10H8+C10H6CH3=>1.000000039286473CH3+0.333333347738373BIN1B+0.666666650297303BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+H         1.600000e+01    1.600000e+01    1.250000e-06    
+Warning in reaction (line 11866): C5H6+C16H10=>H+CH3+0.6666667BIN1B+0.333333300000000BIN1A
+Corrected reaction (line 11866): C5H6+C16H10=>1.000000008158069H+1.000000019147528CH3+0.666666675047105BIN1B+0.333333323995519BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+H         1.600000e+01    1.600000e+01    1.250000e-06    
+Warning in reaction (line 11870): C5H5OH+C16H10=>OH+CH3+0.6666667BIN1B+0.333333300000000BIN1A
+Corrected reaction (line 11870): C5H5OH+C16H10=>OH+1.000000019961775CH3+0.666666673985984BIN1B+0.333333325015927BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    2.000001e+01    7.499997e-05    
+H         1.600000e+01    1.600001e+01    6.249998e-05    
+Warning in reaction (line 11889): C6H5C2H2+C12H9=>H2+2H+0.666667BIN1B+0.33333375BIN1A
+Corrected reaction (line 11889): C6H5C2H2+C12H9=>0.999999978260870H2+1.999999989130435H+0.666666657608696BIN1B+0.333333342391304BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    2.000001e+01    7.499997e-05    
+H         1.400000e+01    1.400001e+01    7.142855e-05    
+Warning in reaction (line 11900): C6H4C2H+C12H9=>2H+0.666667BIN1B+0.33333375BIN1A
+Corrected reaction (line 11900): C6H4C2H+C12H9=>1.999999986842105H+0.666666664473685BIN1B+0.333333335526316BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+H         1.400000e+01    1.400000e+01    1.428571e-06    
+Warning in reaction (line 11915): C4H5+C14H9=>2H+0.5C18H10+0.033333300000000BIN1B+0.416666700000000BIN1A
+Corrected reaction (line 11915): C4H5+C14H9=>1.999999990501944H+0.500000011492310C18H10+0.033333323322630BIN1B+0.416666666334291BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+H         1.400000e+01    1.400000e+01    1.428571e-06    
+Warning in reaction (line 11916): C4H5+C16H9=>2H+0.6666667BIN1B+0.333333300000000BIN1A
+Corrected reaction (line 11916): C4H5+C16H9=>2.000000010526316H+0.666666668421053BIN1B+0.333333331578947BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    2.000001e+01    7.499997e-05    
+H         1.800000e+01    1.800001e+01    5.555554e-05    
+Warning in reaction (line 11954): RXYLENE+C12H9=>2H2+2H+0.666667BIN1B+0.33333375BIN1A
+Corrected reaction (line 11954): RXYLENE+C12H9=>1.999999978260870H2+1.999999989130435H+0.666666657608696BIN1B+0.333333342391304BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.200000e+01    1.200000e+01    3.166667e-07    
+H         1.400000e+01    1.400000e+01    2.142857e-07    
+Warning in reaction (line 11967): C4H5+RXYLENE=>H2+H+CH3+0.166666670000000C10H8+0.666666667C14H10
+Corrected reaction (line 11967): C4H5+RXYLENE=>0.999999999722028H2+0.999999999861014H+0.999999999559452CH3+0.166666668652216C10H8+0.666666665279885C14H10
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.700000e+01    1.700000e+01    1.933303e-10    
+H         1.500000e+01    1.500000e+01    1.689789e-10    
+Warning in reaction (line 12154): C5H6+C12H9=>CH3+0.181818181818271C16H10+0.727272727274474C18H14
+Corrected reaction (line 12154): C5H6+C12H9=>0.999999999999444CH3+0.181818181817678C16H10+0.727272727273206C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    2.000001e+01    7.499997e-05    
+H         1.300000e+01    1.300001e+01    7.692305e-05    
+Warning in reaction (line 12166): C6H4C2H+C12H8=>H+0.666667BIN1B+0.33333375BIN1A
+Corrected reaction (line 12166): C6H4C2H+C12H8=>0.999999986842105H+0.666666664473685BIN1B+0.333333335526316BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    1.999999e+01    3.750001e-05    
+H         1.500000e+01    1.500000e+01    2.666667e-05    
+Warning in reaction (line 12167): C6H4C2H+BIPHENYL=>H+0.333333BIN1B+0.666666625BIN1A
+Corrected reaction (line 12167): C6H4C2H+BIPHENYL=>0.999999953947368H+0.333333325657895BIN1B+0.666666674342105BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.900000e+01    1.900000e+01    8.796422e-08    
+H         1.500000e+01    1.500000e+01    8.156230e-08    
+Warning in reaction (line 12178): C6H5+FLUORENE=>H+0.166666666856036BIN1B+0.333333333979624BIN1A+0.5C18H14
+Corrected reaction (line 12178): C6H5+FLUORENE=>0.999999999966828H+0.166666666682601BIN1B+0.333333333607156BIN1A+0.499999999678047C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    2.000000e+01    8.356601e-08    
+H         1.900000e+01    1.900000e+01    6.439129e-08    
+Warning in reaction (line 12180): C6H5+C6H5C2H4C6H5=>H2+CH3+0.166666666856036BIN1B+0.333333333979624BIN1A+0.5C18H14
+Corrected reaction (line 12180): C6H5+C6H5C2H4C6H5=>0.999999999953662H2+0.999999999931598CH3+0.166666666646439BIN1B+0.333333333631014BIN1A+0.499999999695519C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    1.999999e+01    7.500003e-05    
+H         1.500000e+01    1.499999e+01    6.666669e-05    
+Warning in reaction (line 12181): C6H5+C14H10=>H+0.333333BIN1B+0.66666625BIN1A
+Corrected reaction (line 12181): C6H5+C14H10=>1.000000013157895H+0.333333335526316BIN1B+0.666666664473684BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    1.999999e+01    7.500003e-05    
+H         1.500000e+01    1.499999e+01    6.666669e-05    
+Warning in reaction (line 12185): C6H5C2H+C12H9=>H+0.333333BIN1B+0.66666625BIN1A
+Corrected reaction (line 12185): C6H5C2H+C12H9=>1.000000013157895H+0.333333335526316BIN1B+0.666666664473684BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    2.000001e+01    7.499997e-05    
+H         1.500000e+01    1.500001e+01    6.666664e-05    
+Warning in reaction (line 12190): C6H5C2H2+C12H8=>H2+H+0.666667BIN1B+0.33333375BIN1A
+Corrected reaction (line 12190): C6H5C2H2+C12H8=>0.999999978260870H2+0.999999989130435H+0.666666657608696BIN1B+0.333333342391304BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    1.999999e+01    3.750001e-05    
+H         1.700000e+01    1.700000e+01    2.352941e-05    
+Warning in reaction (line 12191): C6H5C2H2+BIPHENYL=>H2+H+0.333333BIN1B+0.666666625BIN1A
+Corrected reaction (line 12191): C6H5C2H2+BIPHENYL=>0.999999923913043H2+0.999999961956522H+0.333333301630435BIN1B+0.666666698369565BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    1.999925e+01    3.750070e-03    
+H         1.500000e+01    1.499960e+01    2.666702e-03    
+Warning in reaction (line 12193): C6H5C2H3+C12H7=>H+0.333300000000000BIN1B+0.6666625BIN1A
+Corrected reaction (line 12193): C6H5C2H3+C12H7=>0.999995394736842H+0.333332565789474BIN1B+0.666667434210526BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    2.000000e+01    8.356601e-08    
+H         1.900000e+01    1.900000e+01    6.439129e-08    
+Warning in reaction (line 12196): C6H5C2H5+C12H9=>H2+CH3+0.166666666856036BIN1B+0.333333333979624BIN1A+0.5C18H14
+Corrected reaction (line 12196): C6H5C2H5+C12H9=>0.999999999953662H2+0.999999999931598CH3+0.166666666646439BIN1B+0.333333333631014BIN1A+0.499999999695519C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    1.999993e+01    3.750007e-04    
+H         1.500000e+01    1.499996e+01    2.666670e-04    
+Warning in reaction (line 12204): C6H6+C14H9=>H+0.33333BIN1B+0.66666625BIN1A
+Corrected reaction (line 12204): C6H6+C14H9=>0.999999539473684H+0.333333256578947BIN1B+0.666666743421052BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.700000e+01    1.700000e+01    1.933303e-10    
+H         1.500000e+01    1.500000e+01    1.689789e-10    
+Warning in reaction (line 12205): C7H8+C10H7=>CH3+0.181818181818271C16H10+0.727272727274474C18H14
+Corrected reaction (line 12205): C7H8+C10H7=>0.999999999999444CH3+0.181818181817678C16H10+0.727272727273206C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.900000e+01    1.900000e+01    8.796422e-08    
+H         1.500000e+01    1.500000e+01    8.156230e-08    
+Warning in reaction (line 12206): C7H8+C12H7=>H+0.166666666856036BIN1B+0.333333333979624BIN1A+0.5C18H14
+Corrected reaction (line 12206): C7H8+C12H7=>0.999999999966828H+0.166666666682601BIN1B+0.333333333607156BIN1A+0.499999999678047C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    1.999999e+01    7.500003e-05    
+H         1.500000e+01    1.499999e+01    6.666669e-05    
+Warning in reaction (line 12210): C10H8+C10H7=>H+0.333333BIN1B+0.66666625BIN1A
+Corrected reaction (line 12210): C10H8+C10H7=>1.000000013157895H+0.333333335526316BIN1B+0.666666664473684BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.700000e+01    1.700000e+01    1.933303e-10    
+H         1.500000e+01    1.500000e+01    1.689789e-10    
+Warning in reaction (line 12215): C10H8+CH3C6H4=>CH3+0.181818181818271C16H10+0.727272727274474C18H14
+Corrected reaction (line 12215): C10H8+CH3C6H4=>0.999999999999444CH3+0.181818181817678C16H10+0.727272727273206C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.900000e+01    1.900000e+01    8.796422e-08    
+H         1.500000e+01    1.500000e+01    8.156230e-08    
+Warning in reaction (line 12216): CH3C6H4+C12H8=>H+0.166666666856036BIN1B+0.333333333979624BIN1A+0.5C18H14
+Corrected reaction (line 12216): CH3C6H4+C12H8=>0.999999999966828H+0.166666666682601BIN1B+0.333333333607156BIN1A+0.499999999678047C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    2.000000e+01    8.356601e-08    
+H         1.900000e+01    1.900000e+01    6.439129e-08    
+Warning in reaction (line 12218): CH3C6H4+C6H5CH2C6H5=>H2+CH3+0.166666666856036BIN1B+0.333333333979624BIN1A+0.5C18H14
+Corrected reaction (line 12218): CH3C6H4+C6H5CH2C6H5=>0.999999999953662H2+0.999999999931598CH3+0.166666666646439BIN1B+0.333333333631014BIN1A+0.499999999695519C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    2.000000e+01    8.356601e-08    
+H         1.900000e+01    1.900000e+01    6.439129e-08    
+Warning in reaction (line 12223): XYLENE+C12H9=>H2+CH3+0.166666666856036BIN1B+0.333333333979624BIN1A+0.5C18H14
+Corrected reaction (line 12223): XYLENE+C12H9=>0.999999999953662H2+0.999999999931598CH3+0.166666666646439BIN1B+0.333333333631014BIN1A+0.499999999695519C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.700000e+01    1.700000e+01    1.933303e-10    
+H         1.500000e+01    1.500000e+01    1.689789e-10    
+Warning in reaction (line 12263): C5H5+BIPHENYL=>CH3+0.181818181818271C16H10+0.727272727274474C18H14
+Corrected reaction (line 12263): C5H5+BIPHENYL=>0.999999999999444CH3+0.181818181817678C16H10+0.727272727273206C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.900000e+01    1.900000e+01    8.796422e-08    
+H         1.500000e+01    1.500000e+01    8.156230e-08    
+Warning in reaction (line 12266): C5H5+C14H10=>H+0.166666666856036BIN1B+0.333333333979624BIN1A+0.5C18H14
+Corrected reaction (line 12266): C5H5+C14H10=>0.999999999966828H+0.166666666682601BIN1B+0.333333333607156BIN1A+0.499999999678047C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.900000e+01    1.900000e+01    8.796422e-08    
+H         1.500000e+01    1.500000e+01    8.156230e-08    
+Warning in reaction (line 12272): C5H4OH+C14H10=>OH+0.166666666856036BIN1B+0.333333333979624BIN1A+0.5C18H14
+Corrected reaction (line 12272): C5H4OH+C14H10=>OH+0.166666666688296BIN1B+0.333333333603706BIN1A+0.499999999675553C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.700000e+01    1.700000e+01    1.933303e-10    
+H         1.500000e+01    1.500000e+01    1.689789e-10    
+Warning in reaction (line 12284): C10H8+C7H7=>CH3+0.181818181818271C16H10+0.727272727274474C18H14
+Corrected reaction (line 12284): C10H8+C7H7=>0.999999999999444CH3+0.181818181817678C16H10+0.727272727273206C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.900000e+01    1.900000e+01    8.796422e-08    
+H         1.500000e+01    1.500000e+01    8.156230e-08    
+Warning in reaction (line 12285): C7H7+C12H8=>H+0.166666666856036BIN1B+0.333333333979624BIN1A+0.5C18H14
+Corrected reaction (line 12285): C7H7+C12H8=>0.999999999966828H+0.166666666682601BIN1B+0.333333333607156BIN1A+0.499999999678047C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    2.000000e+01    8.356601e-08    
+H         1.900000e+01    1.900000e+01    6.439129e-08    
+Warning in reaction (line 12287): C7H7+C6H5CH2C6H5=>H2+CH3+0.166666666856036BIN1B+0.333333333979624BIN1A+0.5C18H14
+Corrected reaction (line 12287): C7H7+C6H5CH2C6H5=>0.999999999953662H2+0.999999999931598CH3+0.166666666646439BIN1B+0.333333333631014BIN1A+0.499999999695519C18H14
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    2.000001e+01    7.499997e-05    
+H         1.700000e+01    1.700001e+01    5.882351e-05    
+Warning in reaction (line 12295): RXYLENE+C12H8=>2H2+H+0.666667BIN1B+0.33333375BIN1A
+Corrected reaction (line 12295): RXYLENE+C12H8=>1.999999978260870H2+0.999999989130435H+0.666666657608696BIN1B+0.333333342391304BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.000000e+01    1.999999e+01    3.750001e-05    
+H         1.900000e+01    1.900000e+01    2.105263e-05    
+Warning in reaction (line 12296): RXYLENE+BIPHENYL=>2H2+H+0.333333BIN1B+0.666666625BIN1A
+Corrected reaction (line 12296): RXYLENE+BIPHENYL=>1.999999923913043H2+0.999999961956522H+0.333333301630435BIN1B+0.666666698369565BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.300000e+01    2.300000e+01    2.608696e-06    
+H         1.600000e+01    1.600000e+01    1.750000e-06    
+Warning in reaction (line 13211): C5H6+C18H10=>H+CH3+0.933333300000000BIN1B+0.166666670000000BIN1A
+Corrected reaction (line 13211): C5H6+C18H10=>0.999999995441259H+0.999999990049397CH3+0.933333328924989BIN1B+0.166666671572542BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.300000e+01    2.300000e+01    2.608696e-06    
+H         1.600000e+01    1.600000e+01    1.750000e-06    
+Warning in reaction (line 13212): C5H5OH+C18H10=>OH+CH3+0.933333300000000BIN1B+0.166666670000000BIN1A
+Corrected reaction (line 13212): C5H5OH+C18H10=>OH+0.999999989594394CH3+0.933333329517944BIN1B+0.166666671002336BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+H         1.800000e+01    1.800000e+01    1.111111e-07    
+Warning in reaction (line 13214): INDENE+C16H10=>H+CH3+0.866666670000000BIN1B+0.333333330000000BIN1A
+Corrected reaction (line 13214): INDENE+C16H10=>1.000000000815807H+1.000000001914753CH3+0.866666667504710BIN1B+0.333333332399552BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.700000e+01    2.700000e+01    2.222222e-06    
+H         1.800000e+01    1.800000e+01    1.555556e-06    
+Warning in reaction (line 13215): INDENE+C18H10=>H+CH3+1.133333300000000BIN1B+0.166666670000000BIN1A
+Corrected reaction (line 13215): INDENE+C18H10=>0.999999995441259H+0.999999990049397CH3+1.133333328924989BIN1B+0.166666671572542BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+H         1.400000e+01    1.400000e+01    1.428571e-06    
+Warning in reaction (line 13216): C4H5+C18H9=>2H+0.933333300000000BIN1B+0.166666700000000BIN1A
+Corrected reaction (line 13216): C4H5+C18H9=>1.999999989473684H+0.933333331578947BIN1B+0.166666668421053BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.099993e+01    3.180957e-04    
+H         1.600000e+01    1.599997e+01    2.090002e-04    
+Warning in reaction (line 13223): CH3C6H4+C14H9=>0.133330000000000BIN1B+0.916666660000000BIN1A
+Corrected reaction (line 13223): CH3C6H4+C14H9=>0.133333333333333BIN1B+0.916666666666667BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.500000e+01    2.500000e+01    2.640000e-06    
+H         1.600000e+01    1.600000e+01    2.050000e-06    
+Warning in reaction (line 13225): CH3C6H4+C18H9=>0.6666667BIN1B+0.583333333000000BIN1A
+Corrected reaction (line 13225): CH3C6H4+C18H9=>0.666666666666667BIN1B+0.583333333333333BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.099993e+01    3.180957e-04    
+H         1.600000e+01    1.599997e+01    2.090002e-04    
+Warning in reaction (line 13228): C7H7+C14H9=>0.133330000000000BIN1B+0.916666660000000BIN1A
+Corrected reaction (line 13228): C7H7+C14H9=>0.133333333333333BIN1B+0.916666666666667BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.500000e+01    2.500000e+01    2.640000e-06    
+H         1.600000e+01    1.600000e+01    2.050000e-06    
+Warning in reaction (line 13230): C7H7+C18H9=>0.6666667BIN1B+0.583333333000000BIN1A
+Corrected reaction (line 13230): C7H7+C18H9=>0.666666666666667BIN1B+0.583333333333333BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.099933e+01    3.214337e-03    
+H         1.600000e+01    1.599966e+01    2.125023e-03    
+Warning in reaction (line 13231): INDENYL+C12H9=>0.1333BIN1B+0.91666625BIN1A
+Corrected reaction (line 13231): INDENYL+C12H9=>0.133333333333333BIN1B+0.916666666666667BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.200000e+01    2.200001e+01    6.818179e-05    
+H         1.800000e+01    1.800001e+01    5.555554e-05    
+Warning in reaction (line 13233): RXYLENE+C14H9=>H+CH3+0.466667BIN1B+0.58333375BIN1A
+Corrected reaction (line 13233): RXYLENE+C14H9=>0.999999991597495H+0.999999961552172CH3+0.466666651168712BIN1B+0.583333350753679BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.300000e+01    2.300009e+01    3.913036e-04    
+H         1.900000e+01    1.900007e+01    3.684204e-04    
+Warning in reaction (line 13237): C10H6CH3+BIPHENYL=>CH3+0.266667BIN1B+0.8333375BIN1A
+Corrected reaction (line 13237): C10H6CH3+BIPHENYL=>0.999998766192397CH3+0.266666214270546BIN1B+0.833333847419834BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.400000e+01    2.400090e+01    3.749930e-03    
+H         2.100000e+01    2.100070e+01    3.333278e-03    
+Warning in reaction (line 13239): C10H6CH3+C6H5CH2C6H5=>CH3+0.06667BIN1B+1.083375BIN1A
+Corrected reaction (line 13239): C10H6CH3+C6H5CH2C6H5=>0.999987661923976CH3+0.066662142705457BIN1B+1.083338474198344BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.500000e+01    2.499998e+01    6.000002e-05    
+H         1.900000e+01    1.899999e+01    5.263159e-05    
+Warning in reaction (line 13240): C10H6CH3+C14H10=>CH3+0.533333BIN1B+0.66666625BIN1A
+Corrected reaction (line 13240): C10H6CH3+C14H10=>1.000000039286473CH3+0.533333347738373BIN1B+0.666666650297303BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.200000e+01    2.200009e+01    4.090901e-04    
+H         1.700000e+01    1.700007e+01    4.117639e-04    
+Warning in reaction (line 13243): C10H7+BIPHENYL=>H+0.266667BIN1B+0.8333375BIN1A
+Corrected reaction (line 13243): C10H7+BIPHENYL=>0.999999394736842H+0.266666565789474BIN1B+0.833333434210526BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.300000e+01    2.300090e+01    3.912967e-03    
+H         1.900000e+01    1.900070e+01    3.684143e-03    
+Warning in reaction (line 13245): C10H7+C6H5CH2C6H5=>H+0.06667BIN1B+1.083375BIN1A
+Corrected reaction (line 13245): C10H7+C6H5CH2C6H5=>0.999993947368421H+0.066665657894736BIN1B+1.083334342105263BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.400000e+01    2.399998e+01    6.250002e-05    
+H         1.700000e+01    1.699999e+01    5.882355e-05    
+Warning in reaction (line 13246): C10H7+C14H10=>H+0.533333BIN1B+0.66666625BIN1A
+Corrected reaction (line 13246): C10H7+C14H10=>1.000000013157895H+0.533333335526316BIN1B+0.666666664473684BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.400000e+01    2.400090e+01    3.749930e-03    
+H         2.100000e+01    2.100070e+01    3.333278e-03    
+Warning in reaction (line 13247): C10H7+C6H5C2H4C6H5=>CH3+0.06667BIN1B+1.083375BIN1A
+Corrected reaction (line 13247): C10H7+C6H5C2H4C6H5=>0.999987661923976CH3+0.066662142705457BIN1B+1.083338474198344BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.300000e+01    2.300015e+01    6.521718e-04    
+H         1.900000e+01    1.900010e+01    5.263144e-04    
+Warning in reaction (line 13249): C10H7CH3+C12H9=>H+0.06667BIN1B+1.0833375BIN1A
+Corrected reaction (line 13249): C10H7CH3+C12H9=>0.999999868421053H+0.066666644736842BIN1B+1.083333355263158BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.200000e+01    2.200090e+01    4.090825e-03    
+H         1.700000e+01    1.700070e+01    4.117562e-03    
+Warning in reaction (line 13251): C10H8+C12H9=>H+0.266670000000000BIN1B+0.833375BIN1A
+Corrected reaction (line 13251): C10H8+C12H9=>0.999993947368421H+0.266665657894736BIN1B+0.833334342105263BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.400000e+01    2.399998e+01    6.250002e-05    
+H         1.700000e+01    1.699999e+01    5.882355e-05    
+Warning in reaction (line 13252): C10H8+C14H9=>H+0.533333BIN1B+0.66666625BIN1A
+Corrected reaction (line 13252): C10H8+C14H9=>1.000000013157895H+0.533333335526316BIN1B+0.666666664473684BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.400000e+01    2.400001e+01    6.249998e-05    
+H         1.500000e+01    1.500001e+01    6.666664e-05    
+Warning in reaction (line 13253): C12H8+C12H7=>H+0.866667000000000BIN1B+0.33333375BIN1A
+Corrected reaction (line 13253): C12H8+C12H7=>0.999999986842105H+0.866666664473684BIN1B+0.333333335526316BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.400000e+01    2.399998e+01    6.250002e-05    
+H         1.700000e+01    1.699999e+01    5.882355e-05    
+Warning in reaction (line 13254): C12H7+BIPHENYL=>H+0.533333BIN1B+0.66666625BIN1A
+Corrected reaction (line 13254): C12H7+BIPHENYL=>1.000000013157895H+0.533333335526316BIN1B+0.666666664473684BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.400000e+01    2.399998e+01    6.250002e-05    
+H         1.700000e+01    1.699999e+01    5.882355e-05    
+Warning in reaction (line 13255): C12H8+C12H9=>H+0.533333BIN1B+0.66666625BIN1A
+Corrected reaction (line 13255): C12H8+C12H9=>1.000000013157895H+0.533333335526316BIN1B+0.666666664473684BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.100001e+01    7.142855e-05    
+H         1.500000e+01    1.500001e+01    6.666664e-05    
+Warning in reaction (line 13257): C5H6+C16H9=>H+0.466667BIN1B+0.58333375BIN1A
+Corrected reaction (line 13257): C5H6+C16H9=>0.999999986842105H+0.466666664473684BIN1B+0.583333335526316BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.300000e+01    2.300000e+01    6.521739e-06    
+H         1.500000e+01    1.500000e+01    6.333333e-06    
+Warning in reaction (line 13258): C5H6+C18H9=>H+0.733333375BIN1B+0.416666700000000BIN1A
+Corrected reaction (line 13258): C5H6+C18H9=>1.000000001315789H+0.733333333552632BIN1B+0.416666666447368BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.100001e+01    7.142855e-05    
+H         1.500000e+01    1.500001e+01    6.666664e-05    
+Warning in reaction (line 13259): C6H4C2H+FLUORENE=>H+0.466667BIN1B+0.58333375BIN1A
+Corrected reaction (line 13259): C6H4C2H+FLUORENE=>0.999999986842105H+0.466666664473684BIN1B+0.583333335526316BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.099925e+01    3.571492e-03    
+H         1.700000e+01    1.699960e+01    2.352969e-03    
+Warning in reaction (line 13260): C6H4C2H+C6H5CH2C6H5=>H+0.1333BIN1B+0.9166625BIN1A
+Corrected reaction (line 13260): C6H4C2H+C6H5CH2C6H5=>0.999995394736842H+0.133332565789474BIN1B+0.916667434210526BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.200000e+01    2.199925e+01    3.409149e-03    
+H         1.900000e+01    1.899960e+01    2.105285e-03    
+Warning in reaction (line 13262): C6H4C2H+C6H5C2H4C6H5=>CH3+0.1333BIN1B+0.9166625BIN1A
+Corrected reaction (line 13262): C6H4C2H+C6H5C2H4C6H5=>0.999991983435974CH3+0.133330393926524BIN1B+0.916670006901678BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.400000e+01    2.400001e+01    6.249998e-05    
+H         1.500000e+01    1.500001e+01    6.666664e-05    
+Warning in reaction (line 13263): C6H4C2H+C16H10=>H+0.866667000000000BIN1B+0.33333375BIN1A
+Corrected reaction (line 13263): C6H4C2H+C16H10=>0.999999986842105H+0.866666664473684BIN1B+0.333333335526316BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.100001e+01    7.142855e-05    
+H         1.700000e+01    1.700001e+01    5.882351e-05    
+Warning in reaction (line 13266): C6H5C2H2+FLUORENE=>H2+H+0.466667BIN1B+0.58333375BIN1A
+Corrected reaction (line 13266): C6H5C2H2+FLUORENE=>0.999999978260870H2+0.999999989130435H+0.466666657608696BIN1B+0.583333342391304BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.099925e+01    3.571492e-03    
+H         1.900000e+01    1.899960e+01    2.105285e-03    
+Warning in reaction (line 13267): C6H5C2H2+C6H5CH2C6H5=>H2+H+0.1333BIN1B+0.9166625BIN1A
+Corrected reaction (line 13267): C6H5C2H2+C6H5CH2C6H5=>0.999992391304348H2+0.999996195652174H+0.133330163043478BIN1B+0.916669836956522BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.200000e+01    2.199925e+01    3.409149e-03    
+H         2.100000e+01    2.099960e+01    1.904780e-03    
+Warning in reaction (line 13269): C6H5C2H2+C6H5C2H4C6H5=>H2+CH3+0.1333BIN1B+0.9166625BIN1A
+Corrected reaction (line 13269): C6H5C2H2+C6H5C2H4C6H5=>0.999993480036298H2+0.999993284936479CH3+0.133328697822142BIN1B+0.916671637931034BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.400000e+01    2.400001e+01    6.249998e-05    
+H         1.700000e+01    1.700001e+01    5.882351e-05    
+Warning in reaction (line 13270): C6H5C2H2+C16H10=>H2+H+0.866667000000000BIN1B+0.33333375BIN1A
+Corrected reaction (line 13270): C6H5C2H2+C16H10=>0.999999978260870H2+0.999999989130435H+0.866666657608696BIN1B+0.333333342391304BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.200000e+01    2.200009e+01    4.090901e-04    
+H         1.700000e+01    1.700007e+01    4.117639e-04    
+Warning in reaction (line 13271): C6H5C2H3+C14H9=>H+0.266667BIN1B+0.8333375BIN1A
+Corrected reaction (line 13271): C6H5C2H3+C14H9=>0.999999394736842H+0.266666565789474BIN1B+0.833333434210526BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.200000e+01    2.199999e+01    6.818184e-05    
+H         1.900000e+01    1.899999e+01    5.263159e-05    
+Warning in reaction (line 13272): C6H5C2H5+C14H9=>CH3+0.133333000000000BIN1B+0.91666625BIN1A
+Corrected reaction (line 13272): C6H5C2H5+C14H9=>1.000000039286473CH3+0.133333347738373BIN1B+0.916666650297303BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.400000e+01    2.400000e+01    2.750000e-06    
+H         1.500000e+01    1.500000e+01    3.533333e-06    
+Warning in reaction (line 13274): C6H6+C18H9=>H+0.866666667000000BIN1B+0.333333300000000BIN1A
+Corrected reaction (line 13274): C6H6+C18H9=>1.000000005315790H+0.866666667552632BIN1B+0.333333332447369BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.099999e+01    7.142860e-05    
+H         1.700000e+01    1.699999e+01    5.882355e-05    
+Warning in reaction (line 13275): C7H8+C14H9=>H+0.133333000000000BIN1B+0.91666625BIN1A
+Corrected reaction (line 13275): C7H8+C14H9=>1.000000013157895H+0.133333335526316BIN1B+0.916666664473684BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+H         1.700000e+01    1.700000e+01    1.176471e-08    
+Warning in reaction (line 13277): C7H8+C18H9=>H+0.666666667BIN1B+0.583333333000000BIN1A
+Corrected reaction (line 13277): C7H8+C18H9=>1.000000000105263H+0.666666666684210BIN1B+0.583333333315790BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.100015e+01    7.142832e-04    
+H         1.500000e+01    1.500010e+01    6.666644e-04    
+Warning in reaction (line 13278): INDENE+C12H7=>H+0.46667BIN1B+0.5833375BIN1A
+Corrected reaction (line 13278): INDENE+C12H7=>0.999999868421053H+0.466666644736842BIN1B+0.583333355263158BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.099999e+01    7.142860e-05    
+H         1.700000e+01    1.699999e+01    5.882355e-05    
+Warning in reaction (line 13279): INDENE+C12H9=>H+0.133333000000000BIN1B+0.91666625BIN1A
+Corrected reaction (line 13279): INDENE+C12H9=>1.000000013157895H+0.133333335526316BIN1B+0.916666664473684BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.200000e+01    2.199999e+01    6.818184e-05    
+H         1.900000e+01    1.899999e+01    5.263159e-05    
+Warning in reaction (line 13281): XYLENE+C14H9=>CH3+0.133333000000000BIN1B+0.91666625BIN1A
+Corrected reaction (line 13281): XYLENE+C14H9=>1.000000039286473CH3+0.133333347738373BIN1B+0.916666650297303BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.099985e+01    7.142883e-04    
+H         1.700000e+01    1.699990e+01    5.882370e-04    
+Warning in reaction (line 13282): CH3C6H4+C14H10=>H+0.133330000000000BIN1B+0.9166625BIN1A
+Corrected reaction (line 13282): CH3C6H4+C14H10=>1.000000131578947H+0.133333355263158BIN1B+0.916666644736842BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.300000e+01    2.300009e+01    3.913036e-04    
+H         1.900000e+01    1.900007e+01    3.684204e-04    
+Warning in reaction (line 13285): C10H7CH2+BIPHENYL=>CH3+0.266667BIN1B+0.8333375BIN1A
+Corrected reaction (line 13285): C10H7CH2+BIPHENYL=>0.999998766192397CH3+0.266666214270546BIN1B+0.833333847419834BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.400000e+01    2.400090e+01    3.749930e-03    
+H         2.100000e+01    2.100070e+01    3.333278e-03    
+Warning in reaction (line 13287): C10H7CH2+C6H5CH2C6H5=>CH3+0.06667BIN1B+1.083375BIN1A
+Corrected reaction (line 13287): C10H7CH2+C6H5CH2C6H5=>0.999987661923976CH3+0.066662142705457BIN1B+1.083338474198344BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.500000e+01    2.499998e+01    6.000002e-05    
+H         1.900000e+01    1.899999e+01    5.263159e-05    
+Warning in reaction (line 13288): C10H7CH2+C14H10=>CH3+0.533333BIN1B+0.66666625BIN1A
+Corrected reaction (line 13288): C10H7CH2+C14H10=>1.000000039286473CH3+0.533333347738373BIN1B+0.666666650297303BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.100001e+01    7.142855e-05    
+H         1.500000e+01    1.500001e+01    6.666664e-05    
+Warning in reaction (line 13290): C5H5+C16H10=>H+0.466667BIN1B+0.58333375BIN1A
+Corrected reaction (line 13290): C5H5+C16H10=>0.999999986842105H+0.466666664473684BIN1B+0.583333335526316BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.100001e+01    7.142855e-05    
+H         1.500000e+01    1.500001e+01    6.666664e-05    
+Warning in reaction (line 13291): C5H4OH+C16H10=>OH+0.466667BIN1B+0.58333375BIN1A
+Corrected reaction (line 13291): C5H4OH+C16H10=>OH+0.466666666666667BIN1B+0.583333333333333BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.099985e+01    7.142883e-04    
+H         1.700000e+01    1.699990e+01    5.882370e-04    
+Warning in reaction (line 13292): C7H7+C14H10=>H+0.133330000000000BIN1B+0.9166625BIN1A
+Corrected reaction (line 13292): C7H7+C14H10=>1.000000131578947H+0.133333355263158BIN1B+0.916666644736842BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.100001e+01    7.142855e-05    
+H         1.500000e+01    1.500001e+01    6.666664e-05    
+Warning in reaction (line 13294): INDENYL+C12H8=>H+0.466667BIN1B+0.58333375BIN1A
+Corrected reaction (line 13294): INDENYL+C12H8=>0.999999986842105H+0.466666664473684BIN1B+0.583333335526316BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.099999e+01    7.142860e-05    
+H         1.700000e+01    1.699999e+01    5.882355e-05    
+Warning in reaction (line 13295): INDENYL+BIPHENYL=>H+0.133333000000000BIN1B+0.91666625BIN1A
+Corrected reaction (line 13295): INDENYL+BIPHENYL=>1.000000013157895H+0.133333335526316BIN1B+0.916666664473684BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.200000e+01    2.200001e+01    6.818179e-05    
+H         1.700000e+01    1.700001e+01    5.882351e-05    
+Warning in reaction (line 13296): INDENYL+FLUORENE=>H+0.266667BIN1B+0.83333375BIN1A
+Corrected reaction (line 13296): INDENYL+FLUORENE=>0.999999986842105H+0.266666664473684BIN1B+0.833333335526316BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.200000e+01    2.199999e+01    6.818184e-05    
+H         1.900000e+01    1.899999e+01    5.263159e-05    
+Warning in reaction (line 13297): INDENYL+C6H5CH2C6H5=>CH3+0.133333000000000BIN1B+0.91666625BIN1A
+Corrected reaction (line 13297): INDENYL+C6H5CH2C6H5=>1.000000039286473CH3+0.133333347738373BIN1B+0.916666650297303BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.300000e+01    2.300001e+01    6.521737e-05    
+H         2.100000e+01    2.100001e+01    4.761904e-05    
+Warning in reaction (line 13299): INDENYL+C6H5C2H4C6H5=>H2+CH3+0.266667BIN1B+0.83333375BIN1A
+Corrected reaction (line 13299): INDENYL+C6H5C2H4C6H5=>0.999999985027223H2+0.999999963702359CH3+0.266666648366606BIN1B+0.833333353448276BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.100001e+01    7.142855e-05    
+H         1.900000e+01    1.900001e+01    5.263157e-05    
+Warning in reaction (line 13300): RXYLENE+FLUORENE=>2H2+H+0.466667BIN1B+0.58333375BIN1A
+Corrected reaction (line 13300): RXYLENE+FLUORENE=>1.999999978260870H2+0.999999989130435H+0.466666657608696BIN1B+0.583333342391304BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.099925e+01    3.571492e-03    
+H         2.100000e+01    2.099960e+01    1.904780e-03    
+Warning in reaction (line 13301): RXYLENE+C6H5CH2C6H5=>2H2+H+0.1333BIN1B+0.9166625BIN1A
+Corrected reaction (line 13301): RXYLENE+C6H5CH2C6H5=>1.999992391304348H2+0.999996195652174H+0.133330163043478BIN1B+0.916669836956522BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.200000e+01    2.199925e+01    3.409149e-03    
+H         2.300000e+01    2.299960e+01    1.739146e-03    
+Warning in reaction (line 13303): RXYLENE+C6H5C2H4C6H5=>2H2+CH3+0.1333BIN1B+0.9166625BIN1A
+Corrected reaction (line 13303): RXYLENE+C6H5C2H4C6H5=>1.999993480036298H2+0.999993284936479CH3+0.133328697822142BIN1B+0.916671637931034BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.400000e+01    2.400001e+01    6.249998e-05    
+H         1.900000e+01    1.900001e+01    5.263157e-05    
+Warning in reaction (line 13304): RXYLENE+C16H10=>2H2+H+0.866667000000000BIN1B+0.33333375BIN1A
+Corrected reaction (line 13304): RXYLENE+C16H10=>1.999999978260870H2+0.999999989130435H+0.866666657608696BIN1B+0.333333342391304BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.000000e+01    1.000000e+01    1.000000e-05    
+H         2.200000e+01    2.200000e+01    9.090909e-06    
+Warning in reaction (line 13315): NC10H22=>0.5C2H5+0.5NC3H7+0.833333000000000NC7H15+0.166667000000000NC10H21
+Corrected reaction (line 13315): NC10H22=>0.500000085365856C2H5+0.500000060975612NC3H7+0.833332963414634NC7H15+0.166666890243901NC10H21
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.200000e+01    1.200000e+01    2.583333e-06    
+H         2.500000e+01    2.500000e+01    2.480000e-06    
+Warning in reaction (line 13327): NC12H25=>0.3C2H5+0.9C2H4+0.7NC3H7+0.166666670000000NC7H14+0.6333333NC10H20
+Corrected reaction (line 13327): NC12H25=>0.299999998990228C2H5+0.900000004039088C2H4+0.700000001009772NC3H7+0.166666684136808NC7H14+0.633333320195440NC10H20
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.200000e+01    1.200000e+01    1.666667e-06    
+H         2.500000e+01    2.500000e+01    1.600000e-06    
+Warning in reaction (line 13328): NC12H25=>0.2C3H6+0.5PC4H9+0.5NC5H11+0.833333300000000NC7H14+0.106666670000000NC10H20
+Corrected reaction (line 13328): NC12H25=>0.200000003785489C3H6+0.499999999369085PC4H9+0.500000000630915NC5H11+0.833333308832808NC7H14+0.106666682618296NC10H20
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.600000e+01    1.600001e+01    6.249998e-05    
+H         3.400000e+01    3.400002e+01    5.882351e-05    
+Warning in reaction (line 13336): NC16H34=>1.33333NC7H15+0.66667NC10H21
+Corrected reaction (line 13336): NC16H34=>1.333333333333333NC7H15+0.666666666666667NC10H21
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.600000e+01    1.600000e+01    1.250000e-05    
+H         3.300000e+01    3.300000e+01    1.212121e-05    
+Warning in reaction (line 13341): NC16H33=>0.5NC7H15+0.833333000000000NC7H14+0.5NC10H21+0.166666700000000NC10H20
+Corrected reaction (line 13341): NC16H33=>0.499999980456026NC7H15+0.833333091205212NC7H14+0.500000019543974NC10H21+0.166666830293160NC10H20
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         1.000000e+01    1.000000e+01    1.000000e-05    
+H         2.100000e+01    2.100000e+01    9.523809e-06    
+Warning in reaction (line 13346): OH+NC10H20=>0.5CH3CHO+0.5C2H5CHO+0.833333000000000NC7H15+0.166667000000000NC10H21
+Corrected reaction (line 13346): OH+NC10H20=>0.500000100000003CH3CHO+0.499999899999997C2H5CHO+0.833333300000011NC7H15+0.166666699999992NC10H21
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+H         1.400000e+01    1.400020e+01    1.428561e-03    
+Warning in reaction (line 13361): MCYC6=>H2+0.333300000000000C7H8+0.6667MCYC6
+Corrected reaction (line 13361): MCYC6=>0.999981818181818H2+0.333327272727273C7H8+0.666672727272727MCYC6
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.100001e+01    7.142855e-05    
+H         2.000000e+01    2.000001e+01    4.999999e-05    
+Warning in reaction (line 13466): C12H9+RC9H11=>2H2+H+CH3+0.666667BIN1B+0.33333375BIN1A
+Corrected reaction (line 13466): C12H9+RC9H11=>1.999999985552296H2+0.999999992776148H+0.999999964318550CH3+0.666666647563592BIN1B+0.333333354220481BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.100001e+01    7.142855e-05    
+H         1.900000e+01    1.900001e+01    5.263157e-05    
+Warning in reaction (line 13478): C12H8+RC9H11=>2H2+CH3+0.666667BIN1B+0.33333375BIN1A
+Corrected reaction (line 13478): C12H8+RC9H11=>1.999999985027223H2+0.999999963702359CH3+0.666666648366606BIN1B+0.333333353448276BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.100000e+01    2.099999e+01    3.571429e-05    
+H         2.100000e+01    2.100000e+01    1.904762e-05    
+Warning in reaction (line 13479): BIPHENYL+RC9H11=>2H2+CH3+0.333333BIN1B+0.666666625BIN1A
+Corrected reaction (line 13479): BIPHENYL+RC9H11=>1.999999934800363H2+0.999999932849365CH3+0.333333286978222BIN1B+0.666666716379310BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.200000e+01    2.200001e+01    6.818179e-05    
+H         2.100000e+01    2.100001e+01    4.761904e-05    
+Warning in reaction (line 13480): FLUORENE+RC9H11=>2H2+CH3+0.466667BIN1B+0.58333375BIN1A
+Corrected reaction (line 13480): FLUORENE+RC9H11=>1.999999985027223H2+0.999999963702359CH3+0.466666648366606BIN1B+0.583333353448276BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.200000e+01    2.199925e+01    3.409149e-03    
+H         2.300000e+01    2.299960e+01    1.739146e-03    
+Warning in reaction (line 13481): C6H5CH2C6H5+RC9H11=>2H2+CH3+0.1333BIN1B+0.9166625BIN1A
+Corrected reaction (line 13481): C6H5CH2C6H5+RC9H11=>1.999993480036298H2+0.999993284936479CH3+0.133328697822142BIN1B+0.916671637931034BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.300000e+01    2.299925e+01    3.260923e-03    
+H         2.500000e+01    2.499960e+01    1.600013e-03    
+Warning in reaction (line 13483): C6H5C2H4C6H5+RC9H11=>2H2+CH3+0.5C2H4+0.1333BIN1B+0.9166625BIN1A
+Corrected reaction (line 13483): C6H5C2H4C6H5+RC9H11=>1.999994546559863H2+0.999994550135889CH3+0.499994553711915C2H4+0.133327338721213BIN1B+0.916673478400801BIN1A
+
+Warning: the reaction is not perfectly balanced!
+Atom      Reactants       Products        Rel. error(%)
+C         2.500000e+01    2.500001e+01    5.999998e-05    
+H         2.100000e+01    2.100001e+01    4.761904e-05    
+Warning in reaction (line 13484): C16H10+RC9H11=>2H2+CH3+0.866667000000000BIN1B+0.33333375BIN1A
+Corrected reaction (line 13484): C16H10+RC9H11=>1.999999985027223H2+0.999999963702359CH3+0.866666648366606BIN1B+0.333333353448276BIN1A
+
